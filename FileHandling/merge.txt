@@ -1,0 +1,2 @@
+Hello, This is sample.txt fileAppended text
+Hello Python Developer..Best Luck
